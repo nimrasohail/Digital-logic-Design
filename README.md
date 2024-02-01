@@ -1,1 +1,15 @@
-# Digital-logic-Design
+![image](https://github.com/nimrasohail/Digital-logic-Design/assets/97934975/932aa1ab-180a-4d98-87b2-ef442a6372ed)# Digital-logic-Design
+![image](https://github.com/nimrasohail/Digital-logic-Design/assets/97934975/4a607cb0-0686-4126-882f-11cfdce76a97)
+![image](https://github.com/nimrasohail/Digital-logic-Design/assets/97934975/673e359b-4663-4fea-8c73-f0f8a6782012)
+![image](https://github.com/nimrasohail/Digital-logic-Design/assets/97934975/65ffee4c-f712-4248-a9fc-2cc121eeebbe)
+![image](https://github.com/nimrasohail/Digital-logic-Design/assets/97934975/134094e7-d4f3-4747-9ccd-56dac26d1e24)
+![image](https://github.com/nimrasohail/Digital-logic-Design/assets/97934975/af77d105-1eda-414e-8e52-8ee94b744eb4)
+![image](https://github.com/nimrasohail/Digital-logic-Design/assets/97934975/4605a9af-baa2-48de-a895-23f37d288b9f)
+![image](https://github.com/nimrasohail/Digital-logic-Design/assets/97934975/4821583a-4a30-41a4-951d-32041dbf3a94)
+![image](https://github.com/nimrasohail/Digital-logic-Design/assets/97934975/628b419d-30f2-45b2-8300-364de1de6a20)
+![image](https://github.com/nimrasohail/Digital-logic-Design/assets/97934975/37ccf013-7aa0-4edc-9c3f-64bbadeec036)
+![image](https://github.com/nimrasohail/Digital-logic-Design/assets/97934975/96f698fb-ae5a-497f-83fe-03a285ca11f8)
+![image](https://github.com/nimrasohail/Digital-logic-Design/assets/97934975/afa3bcca-8739-49c0-8d73-c26ed964005c)
+![image](https://github.com/nimrasohail/Digital-logic-Design/assets/97934975/e4a566cb-9630-4454-a433-d6583494f9ae)
+![image](https://github.com/nimrasohail/Digital-logic-Design/assets/97934975/8ecda92a-80bb-407c-b705-3f059ae666dc)
+
